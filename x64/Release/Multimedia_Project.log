@@ -1,0 +1,27 @@
+﻿  Moc'ing Multimedia_Project.h...
+  Moc'ing Dilatation.h...
+  Moc'ing Resize.h...
+  Moc'ing Lighten.h...
+  Moc'ing Canny.h...
+  Moc'ing Panorama.h...
+  Canny.cpp
+  Dilatation.cpp
+  Lighten.cpp
+  main.cpp
+c:\multimedia_project\multimedia_project\Canny.h(9): fatal error C1083: 포함 파일을 열 수 없습니다. 'opencv2\core.hpp': No such file or directory (소스 파일 컴파일 중 Canny.cpp)
+  Multimedia_Project.cpp
+c:\multimedia_project\multimedia_project\Resize.h(9): fatal error C1083: 포함 파일을 열 수 없습니다. 'opencv2\core.hpp': No such file or directory (소스 파일 컴파일 중 main.cpp)
+  Panorama.cpp
+  Resize.cpp
+  moc_Multimedia_Project.cpp
+c:\multimedia_project\multimedia_project\Resize.h(9): fatal error C1083: 포함 파일을 열 수 없습니다. 'opencv2\core.hpp': No such file or directory (소스 파일 컴파일 중 Multimedia_Project.cpp)
+  moc_Dilatation.cpp
+c:\multimedia_project\multimedia_project\Resize.h(9): fatal error C1083: 포함 파일을 열 수 없습니다. 'opencv2\core.hpp': No such file or directory (소스 파일 컴파일 중 Resize.cpp)
+  moc_Resize.cpp
+c:\multimedia_project\multimedia_project\Resize.h(9): fatal error C1083: 포함 파일을 열 수 없습니다. 'opencv2\core.hpp': No such file or directory (소스 파일 컴파일 중 .\GeneratedFiles\Release\moc_Multimedia_Project.cpp)
+  moc_Lighten.cpp
+  moc_Canny.cpp
+c:\multimedia_project\multimedia_project\generatedfiles\release\../../Resize.h(9): fatal error C1083: 포함 파일을 열 수 없습니다. 'opencv2\core.hpp': No such file or directory (소스 파일 컴파일 중 .\GeneratedFiles\Release\moc_Resize.cpp)
+  moc_Panorama.cpp
+  qrc_Multimedia_Project.cpp
+c:\multimedia_project\multimedia_project\generatedfiles\release\../../Canny.h(9): fatal error C1083: 포함 파일을 열 수 없습니다. 'opencv2\core.hpp': No such file or directory (소스 파일 컴파일 중 .\GeneratedFiles\Release\moc_Canny.cpp)
